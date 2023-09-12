@@ -1,0 +1,21 @@
+
+.request, h2 {
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 60px;
+    color:black;
+    text-align: center;
+    position: relative;
+  }
+
+  .image img {
+    width: 100%;
+  }
+
+  .info li {
+    position: relative;
+    left: 70px;
+    font-family: cursive;
+    font-weight: bold;
+    font-size: 30px;
+  }

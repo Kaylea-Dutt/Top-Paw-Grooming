@@ -1,0 +1,84 @@
+.menu {
+    position: absolute;
+  }
+  
+  span {
+    font-size: 30px;
+    color: black;
+  }
+    
+    .image img {
+      width: 100%;
+    }
+  
+    .heading {
+      width: 100%;
+      position: absolute;
+    }
+  
+    heading,
+    p {
+      text-align: center;
+      position: relative;
+      font-family: cursive;
+    }
+  
+     menu.services {
+      top: 327px;
+      left: 650px;
+      height: 70px;
+      width: 120px;
+      border:2px solid #6495ED;
+      background-color: #BCD2EE;
+      border-radius: 40px;
+      padding-top: 7px;
+      display:block;
+    }
+  
+    .reviews {
+      background-color:#BCD2EE;
+      border:solid #BCD2EE 2px;
+    }
+  
+    reviews,
+    h2 {
+      text-align: center;
+      font-family: cursive;
+      font-size: 30px;
+    }
+  
+    .map img {
+      width: 30%;
+      height: 400px;
+      margin-left: 35%;
+    }
+  
+  .social {
+    text-align: center;
+    background-color: white;
+  }
+  
+  h3 {
+    font-size: 40px;
+    font-family: cursive;
+  }
+  
+    p, 
+    li {
+      font-size: 18px;
+      font-family: cursive;
+    }
+     
+     
+    a {
+      text-decoration: none;
+    }
+  
+  h1 {
+    color:black;
+    text-align: center;
+    font-size: 75px;
+    font-family: cursive;
+    margin-bottom: 20px;
+  }
+  
